@@ -1,0 +1,12 @@
+{
+	"author": "Fernando Ferrandini",
+	"version": "0.1",
+	"server_scripts": [
+		"ilegal_maconha_s.lua"
+	],
+	"client_scripts": [
+		"ilegal_maconha_c.lua"
+	],
+	"files": [
+	]
+}
